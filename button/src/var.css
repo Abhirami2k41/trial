@@ -1,0 +1,10 @@
+
+import './build/css/_variables.css'
+ .custombutton{
+    background-color:#1a57d5;
+    font-size:x-large;
+ }
+.custombuttonn{
+    background-color: #d91e1e;
+    font-size: x-large;
+}

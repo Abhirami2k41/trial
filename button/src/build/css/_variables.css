@@ -1,0 +1,36 @@
+/**
+ * Do not edit directly
+ * Generated on Tue, 06 Jun 2023 11:28:29 GMT
+ */
+
+:root {
+  --sd-global-xs: 4;
+  --sd-global-lg: 32;
+  --sd-global-black: #000;
+  --sd-global-white: #;
+  --sd-global-red: #d91e1e;
+  --sd-global-blue: #1a57d5;
+  --sd-global-green: #2adc18;
+  --sd-global-pink: #ed11a4;
+  --sd-global-orange: #e67b06;
+  --sd-global-skyblue: #0ec1eb;
+  --sd-global-sm: 4;
+  --sd-global-l: 8;
+  --sd-global-xl: 16;
+  --sd-global-xx: 64;
+  --sd-global-head: inter;
+  --sd-global-body: robot;
+  --sd-global-h1: 48;
+  --sd-global-h2: 60;
+  --sd-global-h3: 80;
+  --sd-global-h: 20;
+}
+
+.custombutton{
+  background-color:var(--sd-global-blue);
+  font-size: var(--sd-global-xl);
+}
+.custombuttonn{
+  background-color: var(--sd-global-red);
+  font-size: var(--sd-global-xl);
+}
